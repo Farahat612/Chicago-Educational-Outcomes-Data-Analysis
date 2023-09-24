@@ -64,7 +64,7 @@ To run the analysis and reproduce the results, follow these steps:
 
 ## Project Contributors
 
-- [Mohamed Farahat]: [GitHub Profile](https://github.com/Farahat612)
+- Mohamed Farahat: [GitHub Profile](https://github.com/Farahat612)
 
 ## Acknowledgments
 
